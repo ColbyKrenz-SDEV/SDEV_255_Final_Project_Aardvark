@@ -202,6 +202,17 @@ p, main ul, .hide-select {
   font-weight: 600;
 }
 
+.schedule {
+  display: flex;
+  justify-content: center;
+  height: 15px;
+  line-height: 15px;
+  padding: 15px;
+  color:#929292;
+  background-color: #282828;
+  border-radius: 5px;
+}
+
 .courses {
   padding-bottom: 10px;
 }
